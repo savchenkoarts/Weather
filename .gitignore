@@ -1,0 +1,7 @@
+#Ignore
+
+.idea/
+out/
+*.iml
+src/test
+target/
